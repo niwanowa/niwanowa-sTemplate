@@ -1,1 +1,1 @@
-git config core.hooksPath ./githooks/pre-push
+cp ./.githooks/pre-push ./.git/hooks/pre-push
